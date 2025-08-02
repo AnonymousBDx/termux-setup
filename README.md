@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm ANONYMOUS BD</h1>
-<h3 align="center">We Are Program Developer Team on Bangladesh</h3>
-# Termux Basic Setup Tool
+```bash
+git clone https://github.com/ANONYMOUS-BD-TEAM/termux-basic-setup.git
+cd termux-basic-setup
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="# Termux Basic Setup Tool
 
 ![Version](https://img.shields.io/badge/version-1.0.2-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.5+-yellow.svg)
@@ -22,9 +24,7 @@ A powerful Termux setup automation tool created by ANONYMOUS BD TEAM. This scrip
 1. Clone this repository:
 ```bash
 git clone https://github.com/ANONYMOUS-BD-TEAM/termux-basic-setup.git
-cd termux-basic-setup
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+cd termux-basic-setup" alt="" /></a> </p>
 
 - 🔭 I’m currently working Python **Termux Setup Tolls**
 
